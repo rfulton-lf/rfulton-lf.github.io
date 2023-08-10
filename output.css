@@ -534,20 +534,12 @@ video {
   --tw-backdrop-sepia:  ;
 }
 
-.flex {
-  display: flex;
-}
-
 .contents {
   display: contents;
 }
 
 .list-decimal {
   list-style-type: decimal;
-}
-
-.rounded {
-  border-radius: 0.25rem;
 }
 
 .bg-blue-950 {
@@ -562,6 +554,10 @@ video {
 
 .p-1 {
   padding: 0.25rem;
+}
+
+.p-10 {
+  padding: 2.5rem;
 }
 
 .p-2 {
@@ -599,6 +595,16 @@ video {
 .text-5xl {
   font-size: 3rem;
   line-height: 1;
+}
+
+.text-base {
+  font-size: 1rem;
+  line-height: 1.5rem;
+}
+
+.text-lg {
+  font-size: 1.125rem;
+  line-height: 1.75rem;
 }
 
 .font-bold {
