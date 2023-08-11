@@ -547,9 +547,9 @@ video {
   background-color: rgb(23 37 84 / var(--tw-bg-opacity));
 }
 
-.bg-slate-600 {
+.bg-orange-600 {
   --tw-bg-opacity: 1;
-  background-color: rgb(71 85 105 / var(--tw-bg-opacity));
+  background-color: rgb(234 88 12 / var(--tw-bg-opacity));
 }
 
 .p-1 {
