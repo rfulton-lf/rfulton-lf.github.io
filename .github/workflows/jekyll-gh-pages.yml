@@ -31,7 +31,7 @@ jobs:
       - name: Install npm packages
         run: npm ci
       - name: Run Tailwind
-        run: npx tailwindcss -i ./styles.css -o ./output.css
+        run: npm run tailwind
       - name: Setup Pages
         uses: actions/configure-pages@v3
       - name: Build with Jekyll
